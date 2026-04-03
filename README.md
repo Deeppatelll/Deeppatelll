@@ -43,15 +43,13 @@ A final-year Information Technology student with a strong focus on full-stack de
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=deeppatel05&show_icons=true&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=Deeppatelll&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=deeppatel05&theme=tokyonight&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Deeppatelll&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=deeppatel05&layout=compact&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Deeppatelll&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 📈 Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deeppatel05&theme=react-dark)
-
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Deeppatelll&theme=tokyo-night&area=true&hide_border=true)
