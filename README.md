@@ -52,4 +52,4 @@ A final-year Information Technology student with a strong focus on full-stack de
 ---
 
 ## 📈 Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Deeppatelll&theme=tokyo-night&area=true&hide_border=true)
+![](https://github-readme-activity-graph.vercel.app/graph?username=Deeppatelll&theme=tokyo-night&hide_title=true&area=true&bg_color=0d1117&color=ffffff&line=00bfff&point=ffffff)
