@@ -54,44 +54,4 @@ A final-year Information Technology student with a strong focus on full-stack de
 ## 📈 Contribution Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deeppatel05&theme=react-dark)
 
----
 
-## 🐍 Contribution Snake
-![Snake animation](https://github.com/deeppatel05/deeppatel05/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 🏆 GitHub Achievements
-![](https://github-profile-trophy.vercel.app/?username=deeppatel05&theme=tokyonight&no-frame=true&margin-w=10)
-
----
-
-## 🚀 Currently Working On
-- 🏠 Urban Estate (MERN Real Estate Platform)
-- ⚙️ Backend Development & API Design
-- 📚 Learning System Design & DevOps
-
----
-
-## 🧠 Learning & Growth
-- 🔹 Advanced Backend Architecture
-- 🔹 Docker & CI/CD Basics
-- 🔹 Data Structures & Algorithms
-
----
-
-## 🔥 Featured Projects
-
-### 🏠 Urban Estate
-- Full-stack MERN real estate platform  
-- Features: Authentication, Listings, Search, Favorites  
-
-### 📊 Dataforge
-- Data-based project (add features if needed)
-
----
-
-## 👀 Profile Views
-![](https://komarev.com/ghpvc/?username=deeppatel05&color=blue)
-
----
